@@ -16,10 +16,9 @@
 #include "code\stylesheet.dm"
 #include "code\world.dm"
 
-#include "code\_defines\tgs.dm"
+#include "code\__defines\tgs.dm"
 #include "code\tgs\chatcommands.dm"
 #include "code\tgs\includes.dm"
-#include "code\tgsort\TgSort.dm"
 #include "code\datums\tgs_event_handler.dm"
 
 #include "code\__datastructures\globals.dm"
