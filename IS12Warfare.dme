@@ -16,6 +16,7 @@
 #include "code\stylesheet.dm"
 #include "code\world.dm"
 
+#include "code\__defines\tgs.config.dm"
 #include "code\__defines\tgs.dm"
 #include "code\tgs\chatcommands.dm"
 #include "code\tgs\includes.dm"
